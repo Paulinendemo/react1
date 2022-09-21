@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/%7BPaulinendemo%7D.github.io./%7Breact1%7D/static/css/main.d3c33b21.css",
+    "main.js": "/%7BPaulinendemo%7D.github.io./%7Breact1%7D/static/js/main.887d66fe.js",
+    "index.html": "/%7BPaulinendemo%7D.github.io./%7Breact1%7D/index.html",
+    "main.d3c33b21.css.map": "/%7BPaulinendemo%7D.github.io./%7Breact1%7D/static/css/main.d3c33b21.css.map",
+    "main.887d66fe.js.map": "/%7BPaulinendemo%7D.github.io./%7Breact1%7D/static/js/main.887d66fe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d3c33b21.css",
+    "static/js/main.887d66fe.js"
+  ]
+}
