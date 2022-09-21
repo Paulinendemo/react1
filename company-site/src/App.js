@@ -1,6 +1,6 @@
 import React from "react"
 import './App.css';
-import './components/index.css'
+import './index.css'
 import Header from "./components/Header"
 import About from "./components/About";
 import Map from "./components/Map";
