@@ -21,7 +21,7 @@ function Info(){
 <div className="container-fluid bg-grey">
   <div className="row">
     <div className="col-sm-4">
-      <span className="glyphicon glyphicon-globe logo slideanim"></span>
+      <span className="glyphicon glyphicon-globe logo slide"></span>
     </div>
     <div className="col-sm-8">
       <h2>Our Values</h2><br/>

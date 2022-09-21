@@ -7,7 +7,7 @@ function Serviceinfo(){
   <h2>SERVICES</h2>
   <h4>What we offer</h4>
   <br/>
-  <div className="row ">
+  <div className="row slide">
     <div className="col-sm-4">
       <span className="glyphicon glyphicon-off logo-small"></span>
       <h4>POWER</h4>
@@ -25,7 +25,7 @@ function Serviceinfo(){
     </div>
   </div>
   <br/><br/>
-  <div className="row ">
+  <div className="row slide ">
     <div className="col-sm-4">
       <span className="glyphicon glyphicon-leaf logo-small"></span>
       <h4>GREEN</h4>
