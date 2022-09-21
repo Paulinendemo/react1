@@ -33,7 +33,7 @@ function Form(){
         <>
         <div class="jumbotron text-center">
   <h1>Company</h1> 
-  <p>We specialize in blablabla</p> 
+  <p>We specialize in building websites</p> 
   <form>
     <div class="input-group">
       <input type="email" class="form-control" size="50" placeholder="Email Address" required/>
