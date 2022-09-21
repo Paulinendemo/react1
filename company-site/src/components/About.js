@@ -42,7 +42,7 @@ function Info(){
 const About = () => {
   return (
     <div> 
-        <About/>
+        <Info/>
     </div>
     
   )
