@@ -1,6 +1,6 @@
 import React from 'react'
 
-function Pricing (){
+function PricingInfo (){
     return (
         <>
         <div id="pricing" className="container-fluid">
@@ -8,7 +8,7 @@ function Pricing (){
     <h2>Pricing</h2>
     <h4>Choose a payment plan that works for you</h4>
   </div>
-  <div className="row slideanim">
+  <div className="row ">
     <div className="col-sm-4 col-xs-12">
       <div className="panel panel-default text-center">
         <div className="panel-heading">
@@ -24,12 +24,12 @@ function Pricing (){
         <div className="panel-footer">
           <h3>$19</h3>
           <h4>per month</h4>
-          <button class="btn btn-lg">Sign Up</button>
+          <button className="btn btn-lg">Sign Up</button>
         </div>
       </div>      
     </div>     
     <div className="col-sm-4 col-xs-12">
-      <div class="panel panel-default text-center">
+      <div className="panel panel-default text-center">
         <div className="panel-heading">
           <h1>Pro</h1>
         </div>
@@ -76,7 +76,9 @@ function Pricing (){
 
 const Pricing = () => {
   return (
-    <div>Pricing</div>
+    <div>
+      <PricingInfo />
+    </div>
   )
 }
 
