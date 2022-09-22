@@ -9,21 +9,21 @@ function Portfolioinfo(){
   <div class="row text-center slide">
     <div class="col-sm-4">
       <div class="thumbnail">
-        <img style ={{"width":"400px", "height":"300px"}} src="https://i.pinimg.com/564x/0a/ee/68/0aee68e5e233cad0c948e3789d08f085.jpg" alt="Paris" />
+        <img style ={{"width":"400px", "height":"600px"}} src="https://i.pinimg.com/564x/0a/ee/68/0aee68e5e233cad0c948e3789d08f085.jpg" alt="Paris" />
         <p><strong>Paris</strong></p>
         <p>Yes, we built Paris</p>
       </div>
     </div>
     <div class="col-sm-4">
       <div class="thumbnail">
-        <img style ={{"width":"400px", "height":"300px"}} alt="New York"  src="https://i.pinimg.com/564x/27/9c/9e/279c9e4d93759d24b989d262894910f8.jpg"/>
+        <img style ={{"width":"400px", "height":"600px"}} alt="New York"  src="https://i.pinimg.com/564x/27/9c/9e/279c9e4d93759d24b989d262894910f8.jpg"/>
         <p><strong>New York</strong></p>
         <p>We built New York</p>
       </div>
     </div>
     <div class="col-sm-4">
       <div class="thumbnail">
-        <img style ={{"width":"400px", "height":"300px"}} alt="San Francisco" src="https://i.pinimg.com/564x/bc/12/16/bc121649fc523a1da2199df9017cb5e0.jpg"/>
+        <img style ={{"width":"400px", "height":"600px"}} alt="San Francisco" src="https://i.pinimg.com/564x/bc/12/16/bc121649fc523a1da2199df9017cb5e0.jpg"/>
         <p><strong>San Francisco</strong></p>
         <p>Yes, San Fran is ours</p>
       </div>
